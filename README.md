@@ -52,4 +52,4 @@ This project focuses on the design and implementation of a Healthcare Ontology u
 
 MSc Computing Student
 
-University of West London
+University of Huddersfield 
